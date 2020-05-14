@@ -1,0 +1,1 @@
+Having trouble viewing our mail? This could mean you did not authorize HTML messages... Nonetheless, welcome to {{project_name}} !
